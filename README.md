@@ -2,6 +2,7 @@
 
 This is a testing environment
 
-![Imagen de ejemplo](download.jpeg)
+![Imagen desde GitHub](https://github.com/usuario/repositorio/blob/main/download.jpeg?raw=true)
+
 
 
