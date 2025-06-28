@@ -2,5 +2,6 @@
 
 This is a testing environment
 
-![](download.jpeg)
+![Imagen de ejemplo](download.jpeg)
+
 
